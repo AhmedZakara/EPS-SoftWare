@@ -51,4 +51,4 @@ Features • C-code sample application for Self Programming
 • USING LABVIEW
 
 SOURCES & GUI:
-https://drive.google.com/drive/u/0/folders/1q46X8ySc7BbKNhUFLUyYFONrhBA41onY
+https://drive.google.com/drive/folders/1FbtXRd_qTcQqz80fVYrtO4FCwrcvpQIc?usp=sharing
